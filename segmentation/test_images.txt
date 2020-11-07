@@ -1,0 +1,12 @@
+/data/datasets/extended_v2_Masked/test/COVID-19/6b44464d-73a7-4cf3-bbb6-ffe7168300e3.annot.original.jpeg
+/data/datasets/extended_v2_Masked/test/COVID-19/16654_4_1.jpg
+/data/datasets/extended_v2_Masked/test/COVID-19/covid-19-pneumonia-43-day2.jpeg
+/data/datasets/extended_v2_Masked/test/COVID-19/covid-19-pneumonia-evolution-over-a-week-1-day3.jpg
+/data/datasets/extended_v2_Masked/test/Normal/0ad17cb4-c693-4ac1-9bfb-8e7660c265a2.png
+/data/datasets/extended_v2_Masked/test/Normal/4dca2422-fef2-491f-a80f-9cc90838f178.png
+/data/datasets/extended_v2_Masked/test/Normal/5e608de0-7c4b-4e08-8e20-e03c4e840f3b.png
+/data/datasets/extended_v2_Masked/test/Normal/7ba1a92f-88dc-47ad-9067-966b88125c52.png
+/data/datasets/extended_v2_Masked/test/Pneumonia/0bcfe7ee-ada5-48de-990b-2a2fd6c6ed15.png
+/data/datasets/extended_v2_Masked/test/Pneumonia/0c0da1cf-9514-4c21-9988-fb53c52528d1.png
+/data/datasets/extended_v2_Masked/test/Pneumonia/1dfd8737-ff04-49c6-bd1a-808d682ddc19.png
+/data/datasets/extended_v2_Masked/test/Pneumonia/3d21c4ce-34cb-49f2-9b7a-7465e0888a40.png

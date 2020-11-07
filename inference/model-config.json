@@ -1,0 +1,11 @@
+{
+    "segmenter": "../models/current/segmentation-model.pkl",
+    "classifier": "../models/current/classifier-model.pkl",
+    "batch_size": 64,
+    "crop_confidence_threshold": 0.875,
+    "heatmap": {
+        "cmap": "coolwarm",
+        "xray-opacity": 0.75,
+        "figsize": 8
+    }
+}
