@@ -4,7 +4,7 @@
 
 This repository is being made available for free, with the hope that it will prove useful to someone during this ongoing global pandemic. Attribution is not required, but will be appreciated, if you find this repository useful.
 
-If you have access to reliable PA/AP Chest X-Ray images, which are not included in the training data listed in the [**Data**](#data) section below, that you would like to share, to help improve this model, please respond [here](issues/1).
+If you have access to reliable PA/AP Chest X-Ray images, which are not included in the training data listed in the [**Data**](#data) section below, that you would like to share, to help improve this model, please respond [here](https://github.com/singhaxn/COVID-19_CXR_AI/issues/1).
 
 ## Inference Pipeline
 The inference pipeline uses two models:
