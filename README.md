@@ -4,6 +4,8 @@
 
 This repository is being made available for free, with the hope that it will prove useful to someone during this ongoing global pandemic. Attribution is not required, but will be appreciated, if you find this repository useful.
 
+If you have access to reliable PA/AP Chest X-Ray images, which are not included in the training data listed in the [**Data**](#data) section below, that you would like to share, to help improve this model, please respond [here](issues/1).
+
 ## Inference Pipeline
 The inference pipeline uses two models:
 1. Segmentation model (unet - resnet34)
@@ -16,6 +18,7 @@ Prediction is performed as follows:
 1. A prediction (COVID-19 / Normal / Pneumonia) is obtained from the classifier model, along with an optional heatmap
 
 Here are a few examples, for a visual representation of the steps above
+
 ![](images/COVID-19-AR-16406541_02.png)
 ![](images/figure1-5e7c1b8d98c29ab001275405-98.jpeg)
 ![](images/3bbcfb90-b950-4502-9866-82a131651a73.png)
